@@ -1,0 +1,4 @@
+Zrobic zadanie z Pythona
+Powtorzyc SQL
+Poczytac o generowaniu grafiki
+CSS
